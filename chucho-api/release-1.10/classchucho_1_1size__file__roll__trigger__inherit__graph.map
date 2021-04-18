@@ -1,5 +1,0 @@
-<map id="chucho::size_file_roll_trigger" name="chucho::size_file_roll_trigger">
-<area shape="rect" id="node2" href="$classchucho_1_1file__roll__trigger.html" title="Determine when a file should roll. " alt="" coords="93,80,249,107"/>
-<area shape="rect" id="node3" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,5,164,32"/>
-<area shape="rect" id="node4" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="188,5,331,32"/>
-</map>

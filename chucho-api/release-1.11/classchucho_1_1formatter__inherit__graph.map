@@ -1,6 +1,0 @@
-<map id="chucho::formatter" name="chucho::formatter">
-<area shape="rect" id="node4" href="$classchucho_1_1pattern__formatter.html" title="A pattern_formatter accepts a pattern in its constructor that is then used to format events..." alt="" coords="5,155,176,181"/>
-<area shape="rect" id="node5" href="$classchucho_1_1yaml__formatter.html" title="A formatter that outputs the event to a YAML mapping. " alt="" coords="201,155,359,181"/>
-<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="19,5,178,32"/>
-<area shape="rect" id="node3" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="202,5,345,32"/>
-</map>

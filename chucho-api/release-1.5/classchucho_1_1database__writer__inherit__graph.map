@@ -1,9 +1,0 @@
-<map id="chucho::database_writer" name="chucho::database_writer">
-<area shape="rect" id="node6" href="$classchucho_1_1mysql__writer.html" title="A writer that sends log events to a MySQL database. " alt="" coords="21,230,167,255"/>
-<area shape="rect" id="node7" href="$classchucho_1_1oracle__writer.html" title="A writer that sends log events to an Oracle database. " alt="" coords="191,230,339,255"/>
-<area shape="rect" id="node8" href="$classchucho_1_1sqlite__writer.html" title="A writer that writes log events to a SQLite database. " alt="" coords="363,230,505,255"/>
-<area shape="rect" id="node2" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use. " alt="" coords="213,81,317,106"/>
-<area shape="rect" id="node3" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="5,6,160,31"/>
-<area shape="rect" id="node4" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="185,6,345,31"/>
-<area shape="rect" id="node5" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="370,6,515,31"/>
-</map>

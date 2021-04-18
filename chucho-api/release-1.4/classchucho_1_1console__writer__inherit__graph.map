@@ -1,8 +1,0 @@
-<map id="chucho::console_writer" name="chucho::console_writer">
-<area shape="rect" id="node11" href="$classchucho_1_1cerr__writer.html" title="A console_writer that writes to std::cerr." alt="" coords="118,238,252,266"/>
-<area shape="rect" id="node13" href="$classchucho_1_1cout__writer.html" title="A console_writer that writes to std::cout." alt="" coords="277,238,413,266"/>
-<area shape="rect" id="node2" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use." alt="" coords="213,83,317,111"/>
-<area shape="rect" id="node4" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied." alt="" coords="5,6,160,34"/>
-<area shape="rect" id="node6" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status." alt="" coords="185,6,345,34"/>
-<area shape="rect" id="node8" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object." alt="" coords="370,6,515,34"/>
-</map>

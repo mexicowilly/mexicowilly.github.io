@@ -1,5 +1,0 @@
-<map id="chucho::filter_memento" name="chucho::filter_memento">
-<area shape="rect" id="node2" href="$classchucho_1_1nameable__memento.html" title="A memento that has common functionality for things that get named. " alt="" coords="5,155,195,181"/>
-<area shape="rect" id="node3" href="$classchucho_1_1memento.html" title="An abstract representation of an object that can be used to create a real one. " alt="" coords="37,80,163,107"/>
-<area shape="rect" id="node4" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="21,5,179,32"/>
-</map>

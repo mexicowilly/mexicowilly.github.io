@@ -1,8 +1,0 @@
-<map id="syslog_writer.h" name="syslog_writer.h">
-<area shape="rect" id="node2" href="$writer_8h.html" title="Functions that can be used with any of the writers created by one of the writer creation functions..." alt="" coords="120,79,231,104"/>
-<area shape="rect" id="node6" href="$formatter_8h.html" title="Functions that can be used with any formatter. " alt="" coords="226,152,358,177"/>
-<area shape="rect" id="node8" href="$syslog__constants_8h.html" title="Constants used in writing to syslog. " alt="" coords="321,79,503,104"/>
-<area shape="rect" id="node3" href="$filter_8h.html" title="Types and functions common to all filters. " alt="" coords="5,152,109,177"/>
-<area shape="rect" id="node4" href="$return__code_8h.html" title="Return codes of Chucho C functions. " alt="" coords="99,225,250,251"/>
-<area shape="rect" id="node5" href="$export_8h_source.html" title="chucho/export.h" alt="" coords="116,299,233,324"/>
-</map>

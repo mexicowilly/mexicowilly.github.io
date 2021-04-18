@@ -1,5 +1,0 @@
-<map id="file_roll_trigger.h" name="file_roll_trigger.h">
-<area shape="rect" id="node2" href="$interval__file__roll__trigger_8h.html" title="A file_roll_trigger that will be triggered at intervals of time. " alt="" coords="5,81,125,122"/>
-<area shape="rect" id="node3" href="$rolling__file__writer_8h.html" title="A writer that writes to files and rolls them. " alt="" coords="150,88,289,115"/>
-<area shape="rect" id="node4" href="$size__file__roll__trigger_8h.html" title="A file_roll_trigger that monitors file size. " alt="" coords="315,88,473,115"/>
-</map>

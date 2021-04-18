@@ -1,5 +1,0 @@
-<map id="chucho::level_filter" name="chucho::level_filter">
-<area shape="rect" id="node2" href="$classchucho_1_1filter.html" title="Conditionally filter an event. " alt="" coords="123,80,220,107"/>
-<area shape="rect" id="node3" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,5,164,32"/>
-<area shape="rect" id="node4" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="188,5,331,32"/>
-</map>

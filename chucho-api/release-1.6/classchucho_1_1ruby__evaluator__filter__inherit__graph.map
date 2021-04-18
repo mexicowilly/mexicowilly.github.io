@@ -1,6 +1,0 @@
-<map id="chucho::ruby_evaluator_filter" name="chucho::ruby_evaluator_filter">
-<area shape="rect" id="node2" href="$classchucho_1_1evaluator__filter.html" title="An evaluator filter determines the filtration status of an event by evaluating a piece of code..." alt="" coords="94,152,254,177"/>
-<area shape="rect" id="node3" href="$classchucho_1_1filter.html" title="Conditionally filter an event. " alt="" coords="126,79,223,104"/>
-<area shape="rect" id="node4" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,5,167,31"/>
-<area shape="rect" id="node5" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="191,5,336,31"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="rabbitmq_writer.h" name="rabbitmq_writer.h">
-<area shape="rect" id="node2" href="$writer_8h.html" title="Functions that can be used with any of the writers created by one of the writer creation functions..." alt="" coords="121,80,231,107"/>
-<area shape="rect" id="node6" href="$formatter_8h.html" title="Functions that can be used with any formatter. " alt="" coords="227,155,357,181"/>
-<area shape="rect" id="node8" href="$serializer_8h.html" title="Functions that can be used with any serializer. " alt="" coords="321,80,452,107"/>
-<area shape="rect" id="node9" href="$compressor_8h.html" title="Functions that can be used with any compressor. " alt="" coords="476,80,623,107"/>
-<area shape="rect" id="node3" href="$filter_8h.html" title="Types and functions common to all filters. " alt="" coords="5,155,109,181"/>
-<area shape="rect" id="node4" href="$return__code_8h.html" title="Return codes of Chucho C functions. " alt="" coords="269,229,416,256"/>
-<area shape="rect" id="node5" href="$export_8h_source.html" title="chucho/export.h" alt="" coords="285,304,400,331"/>
-</map>

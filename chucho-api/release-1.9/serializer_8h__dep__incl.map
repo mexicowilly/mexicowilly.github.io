@@ -1,5 +1,0 @@
-<map id="serializer.h" name="serializer.h">
-<area shape="rect" id="node2" href="$formatted__message__serializer_8h.html" title="A serializer that simply turns the text of a formatted message into a blob. " alt="" coords="5,80,227,107"/>
-<area shape="rect" id="node3" href="$protobuf__serializer_8h.html" title="A serializer that creates a protobuf message. " alt="" coords="251,80,399,107"/>
-<area shape="rect" id="node4" href="$zeromq__writer_8h.html" title="Functions for ZeroMQ writers. " alt="" coords="424,80,547,107"/>
-</map>

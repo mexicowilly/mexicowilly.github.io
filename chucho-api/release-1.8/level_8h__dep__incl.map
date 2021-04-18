@@ -1,9 +1,0 @@
-<map id="level.h" name="level.h">
-<area shape="rect" id="node2" href="$async__writer_8h.html" title="An asynchronous writer. " alt="" coords="5,88,117,115"/>
-<area shape="rect" id="node3" href="$level__filter_8h.html" title="Functions related to level filters. " alt="" coords="142,88,239,115"/>
-<area shape="rect" id="node4" href="$level__threshold__filter_8h.html" title="Functions related to level threshold filters. " alt="" coords="263,88,427,115"/>
-<area shape="rect" id="node5" href="$logger_8h.html" title="A logger writes stuff when someone wants to log something. " alt="" coords="451,88,524,115"/>
-<area shape="rect" id="node7" href="$mysql__writer_8h.html" title="Creation of MySQL writers. " alt="" coords="549,88,660,115"/>
-<area shape="rect" id="node8" href="$level__threshold__email__trigger_8h.html" title="An email trigger that fires whenever an event reaches a certain log level. " alt="" coords="686,81,844,122"/>
-<area shape="rect" id="node6" href="$log_8h.html" title="Logging macros functions that use the Chucho C API. " alt="" coords="462,171,513,197"/>
-</map>

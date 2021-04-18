@@ -1,6 +1,0 @@
-<map id="chucho::serializer" name="chucho::serializer">
-<area shape="rect" id="node4" href="$classchucho_1_1formatted__message__serializer.html" title="A serializer that simply turns the text of a formatted message into a blob. " alt="" coords="5,155,203,197"/>
-<area shape="rect" id="node5" href="$classchucho_1_1protobuf__serializer.html" title="A serializer that creates a protobuf message. " alt="" coords="228,163,417,189"/>
-<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="37,5,205,32"/>
-<area shape="rect" id="node3" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="231,5,379,32"/>
-</map>

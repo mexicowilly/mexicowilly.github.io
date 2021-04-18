@@ -1,6 +1,0 @@
-<map id="chucho::filter" name="chucho::filter">
-<area shape="rect" id="node7" href="$classchucho_1_1level__filter.html" title="A filter that targets a specific log level." alt="" coords="22,169,153,197"/>
-<area shape="rect" id="node9" href="$classchucho_1_1level__threshold__filter.html" title="A filter that tests the log level." alt="" coords="178,161,339,205"/>
-<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status." alt="" coords="5,6,165,34"/>
-<area shape="rect" id="node4" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object." alt="" coords="190,6,335,34"/>
-</map>

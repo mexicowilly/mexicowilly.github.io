@@ -1,6 +1,0 @@
-<map id="Writers" name="Writers">
-<area shape="rect" id="node1" href="$group__c.html" title="Files that comprise the Chucho C API. " alt="" coords="6,105,45,132"/>
-<area shape="rect" id="node2" href="$group__c__database.html" title="Functions that help manage database writers. " alt="" coords="345,55,428,81"/>
-<area shape="rect" id="node4" href="$group__c__email.html" title="Functions that manage email writers. " alt="" coords="359,105,415,132"/>
-<area shape="rect" id="node5" href="$group__c__mq.html" title="Functions for writing to message queues. " alt="" coords="321,156,453,183"/>
-</map>

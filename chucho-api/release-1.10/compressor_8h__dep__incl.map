@@ -1,8 +1,0 @@
-<map id="compressor.h" name="compressor.h">
-<area shape="rect" id="node2" href="$noop__compressor_8h.html" title="A compressor that does nothing. " alt="" coords="5,80,141,107"/>
-<area shape="rect" id="node3" href="$zlib__compressor_8h.html" title="A compressor that uses zlib. " alt="" coords="165,80,293,107"/>
-<area shape="rect" id="node4" href="$bzip2__compressor_8h.html" title="A compressor that uses bzip2. " alt="" coords="317,80,456,107"/>
-<area shape="rect" id="node5" href="$zeromq__writer_8h.html" title="Functions for ZeroMQ writers. " alt="" coords="480,80,595,107"/>
-<area shape="rect" id="node6" href="$activemq__writer_8h.html" title="Functions for ActiveMQ writers. " alt="" coords="619,80,744,107"/>
-<area shape="rect" id="node7" href="$rabbitmq__writer_8h.html" title="Functions for RabbitMQ writers. " alt="" coords="768,80,891,107"/>
-</map>

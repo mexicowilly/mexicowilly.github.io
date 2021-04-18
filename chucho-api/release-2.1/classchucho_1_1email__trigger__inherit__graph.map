@@ -1,5 +1,0 @@
-<map id="chucho::email_trigger" name="chucho::email_trigger">
-<area shape="rect" id="node4" href="$classchucho_1_1level__threshold__email__trigger.html" title="An email trigger that fires whenever an event reaches a certain log level. " alt="" coords="92,155,251,196"/>
-<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,5,164,32"/>
-<area shape="rect" id="node3" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="188,5,331,32"/>
-</map>

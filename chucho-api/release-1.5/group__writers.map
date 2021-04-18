@@ -1,5 +1,0 @@
-<map id="Writers" name="Writers">
-<area shape="rect" id="node1" href="$group__database.html" title="Classes that write to databases. " alt="" coords="271,42,350,67"/>
-<area shape="rect" id="node2" href="$group__rolling.html" title="Classes that roll files, write to rolled files, and determine when files should roll. " alt="" coords="264,99,358,125"/>
-<area shape="rect" id="node4" href="$group__syslog.html" title="Classes and enumerations related to writing to syslog. " alt="" coords="280,149,341,174"/>
-</map>

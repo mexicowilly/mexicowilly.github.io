@@ -1,7 +1,0 @@
-<map id="chucho::file_compressor" name="chucho::file_compressor">
-<area shape="rect" id="node3" href="$classchucho_1_1bzip2__file__compressor.html" title="Compress using the bzip2 format and a file name extension of .bz2. " alt="" coords="444,5,571,47"/>
-<area shape="rect" id="node4" href="$classchucho_1_1gzip__file__compressor.html" title="Compress using the bzip format and a file name extension of .gz. " alt="" coords="410,71,605,98"/>
-<area shape="rect" id="node5" href="$classchucho_1_1noop__file__compressor.html" title="Don&#39;t do anything. " alt="" coords="408,122,607,149"/>
-<area shape="rect" id="node6" href="$classchucho_1_1zip__file__compressor.html" title="Compress using the zip archive format and a file name extension of .zip. " alt="" coords="413,173,601,199"/>
-<area shape="rect" id="node2" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="5,97,148,123"/>
-</map>
