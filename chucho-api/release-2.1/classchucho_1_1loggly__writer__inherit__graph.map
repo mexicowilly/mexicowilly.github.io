@@ -1,0 +1,6 @@
+<map id="chucho::loggly_writer" name="chucho::loggly_writer">
+<area shape="rect" id="node2" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use. " alt="" coords="209,80,313,107"/>
+<area shape="rect" id="node3" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node4" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="182,5,341,32"/>
+<area shape="rect" id="node5" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="365,5,507,32"/>
+</map>

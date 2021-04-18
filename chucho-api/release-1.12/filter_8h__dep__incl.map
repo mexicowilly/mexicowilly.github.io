@@ -1,0 +1,31 @@
+<map id="filter.h" name="filter.h">
+<area shape="rect" id="node2" href="$duplicate__message__filter_8h.html" title="Creation of duplicate message filters. " alt="" coords="1045,80,1222,107"/>
+<area shape="rect" id="node3" href="$level__filter_8h.html" title="Functions related to level filters. " alt="" coords="1246,80,1338,107"/>
+<area shape="rect" id="node4" href="$level__threshold__filter_8h.html" title="Functions related to level threshold filters. " alt="" coords="1363,80,1515,107"/>
+<area shape="rect" id="node5" href="$writer_8h.html" title="Functions that can be used with any of the writers created by one of the writer creation functions..." alt="" coords="1539,80,1605,107"/>
+<area shape="rect" id="node30" href="$ruby__evaluator__filter_8h.html" title="Functions related to Ruby evaluator filters. " alt="" coords="1629,80,1779,107"/>
+<area shape="rect" id="node6" href="$windows__event__log__writer_8h.html" title="Functions for windows event log writers. " alt="" coords="5,155,192,181"/>
+<area shape="rect" id="node7" href="$async__writer_8h.html" title="An asynchronous writer. " alt="" coords="216,155,323,181"/>
+<area shape="rect" id="node8" href="$cerr__writer_8h.html" title="Creation of cerr writers. " alt="" coords="347,155,442,181"/>
+<area shape="rect" id="node9" href="$cout__writer_8h.html" title="Creation of cout writers. " alt="" coords="466,155,563,181"/>
+<area shape="rect" id="node10" href="$file__descriptor__writer_8h.html" title="Writing to a file descriptor. " alt="" coords="587,155,741,181"/>
+<area shape="rect" id="node11" href="$file__writer_8h.html" title="A writer that writes to a file. " alt="" coords="765,155,854,181"/>
+<area shape="rect" id="node13" href="$logger_8h.html" title="A logger writes stuff when someone wants to log something. " alt="" coords="878,155,946,181"/>
+<area shape="rect" id="node15" href="$message__queue__writer_8h.html" title="Functions that can be used with any of the message queue writers created by one of the creation funct..." alt="" coords="970,155,1137,181"/>
+<area shape="rect" id="node16" href="$named__pipe__writer_8h.html" title="A writer for writing to named pipes. " alt="" coords="1161,155,1303,181"/>
+<area shape="rect" id="node17" href="$pipe__writer_8h.html" title="The pipe writer creates a pipe and attaches itself to the output end of it. " alt="" coords="1328,155,1424,181"/>
+<area shape="rect" id="node18" href="$remote__writer_8h.html" title="A writer that writes to a (possibly) remote chucho server. " alt="" coords="1448,155,1560,181"/>
+<area shape="rect" id="node19" href="$syslog__writer_8h.html" title="A writer that writes to syslog. " alt="" coords="1585,155,1695,181"/>
+<area shape="rect" id="node20" href="$oracle__writer_8h.html" title="Creation of Oracle writers. " alt="" coords="1720,155,1827,181"/>
+<area shape="rect" id="node21" href="$mysql__writer_8h.html" title="Creation of MySQL writers. " alt="" coords="1851,155,1957,181"/>
+<area shape="rect" id="node22" href="$sqlite__writer_8h.html" title="Creation of SQLite writers. " alt="" coords="1982,155,2085,181"/>
+<area shape="rect" id="node23" href="$postgres__writer_8h.html" title="Creation of PostgreSQL writers. " alt="" coords="2109,155,2232,181"/>
+<area shape="rect" id="node24" href="$db2__writer_8h.html" title="Functions for DB2 writers. " alt="" coords="2256,155,2349,181"/>
+<area shape="rect" id="node25" href="$email__writer_8h.html" title="Functions for creating and querying email writers. " alt="" coords="2374,155,2477,181"/>
+<area shape="rect" id="node26" href="$zeromq__writer_8h.html" title="Functions for ZeroMQ writers. " alt="" coords="2501,155,2616,181"/>
+<area shape="rect" id="node27" href="$activemq__writer_8h.html" title="Functions for ActiveMQ writers. " alt="" coords="2640,155,2765,181"/>
+<area shape="rect" id="node28" href="$rabbitmq__writer_8h.html" title="Functions for RabbitMQ writers. " alt="" coords="2789,155,2912,181"/>
+<area shape="rect" id="node29" href="$door__writer_8h.html" title="Write to Solaris doors. " alt="" coords="2937,155,3034,181"/>
+<area shape="rect" id="node12" href="$rolling__file__writer_8h.html" title="A writer that writes to files and rolls them. " alt="" coords="737,229,868,256"/>
+<area shape="rect" id="node14" href="$log_8h.html" title="Logging macros functions that use the Chucho C API. " alt="" coords="892,229,943,256"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="chucho::serializer" name="chucho::serializer">
+<area shape="rect" id="node5" href="$classchucho_1_1capn__proto__serializer.html" title="A serializer that creates a Cap&#39;n Proto message. " alt="" coords="409,5,545,47"/>
+<area shape="rect" id="node6" href="$classchucho_1_1flatbuffers__serializer.html" title="A serializer that creates a flatbuffers message. " alt="" coords="412,71,543,112"/>
+<area shape="rect" id="node7" href="$classchucho_1_1formatted__message__serializer.html" title="A serializer that simply turns the text of a formatted message into a blob. " alt="" coords="384,136,571,177"/>
+<area shape="rect" id="node8" href="$classchucho_1_1protobuf__serializer.html" title="A serializer that creates a protobuf message. " alt="" coords="388,202,567,229"/>
+<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,61,164,87"/>
+<area shape="rect" id="node3" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="13,111,156,138"/>
+<area shape="rect" id="node4" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="9,162,161,189"/>
+</map>

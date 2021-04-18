@@ -1,0 +1,8 @@
+<map id="chucho::file_roll_trigger" name="chucho::file_roll_trigger">
+<area shape="rect" id="node4" href="$classchucho_1_1interval__file__roll__trigger.html" title="A file_roll_trigger that will be triggered at intervals of time. " alt="" coords="425,5,563,47"/>
+<area shape="rect" id="node5" href="$classchucho_1_1on__start__file__roll__trigger.html" title="A file_roll_trigger that only triggers for the first log event. " alt="" coords="423,71,565,112"/>
+<area shape="rect" id="node6" href="$classchucho_1_1size__file__roll__trigger.html" title="A file_roll_trigger that monitors file size. " alt="" coords="422,136,566,177"/>
+<area shape="rect" id="node7" href="$classchucho_1_1time__file__roller.html" title="A file_roller that rolls files by time. " alt="" coords="416,202,572,229"/>
+<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,86,164,113"/>
+<area shape="rect" id="node3" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="13,137,156,163"/>
+</map>

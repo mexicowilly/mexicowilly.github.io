@@ -1,0 +1,7 @@
+<map id="chucho::time_file_roller" name="chucho::time_file_roller">
+<area shape="rect" id="node2" href="$classchucho_1_1file__roller.html" title="Roll files. " alt="" coords="193,79,319,104"/>
+<area shape="rect" id="node3" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="5,5,160,31"/>
+<area shape="rect" id="node4" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="353,5,514,31"/>
+<area shape="rect" id="node6" href="$classchucho_1_1file__roll__trigger.html" title="Determine when a file should roll. " alt="" coords="343,79,502,104"/>
+<area shape="rect" id="node5" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="184,5,328,31"/>
+</map>

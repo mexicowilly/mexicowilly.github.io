@@ -1,0 +1,25 @@
+<map id="chucho::writer" name="chucho::writer">
+<area shape="rect" id="node5" href="$classchucho_1_1async__writer.html" title="An asynchronous writer. " alt="" coords="374,21,521,47"/>
+<area shape="rect" id="node6" href="$classchucho_1_1cloud__writer.html" title="A writer that writes to the cloud. " alt="" coords="376,71,519,98"/>
+<area shape="rect" id="node9" href="$classchucho_1_1database__writer.html" title="A writer that writes to a database. " alt="" coords="365,122,529,149"/>
+<area shape="rect" id="node10" href="$classchucho_1_1email__writer.html" title="A writer that sends log events via email. " alt="" coords="376,173,519,199"/>
+<area shape="rect" id="node11" href="$classchucho_1_1file__descriptor__writer.html" title="Writing to a file descriptor. " alt="" coords="371,224,524,265"/>
+<area shape="rect" id="node19" href="$classchucho_1_1message__queue__writer.html" title="A base class for writing to a message queue. " alt="" coords="364,304,531,345"/>
+<area shape="rect" id="node23" href="$classchucho_1_1syslog__writer.html" title="A writer that writes to syslog. " alt="" coords="373,370,522,397"/>
+<area shape="rect" id="node24" href="$classchucho_1_1windows__event__log__writer.html" title="A writer that sends message to Windows Event Log. " alt="" coords="366,421,529,463"/>
+<area shape="rect" id="node2" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="9,151,161,178"/>
+<area shape="rect" id="node3" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,202,164,229"/>
+<area shape="rect" id="node4" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="13,253,156,279"/>
+<area shape="rect" id="node7" href="$classchucho_1_1cloudwatch__writer.html" title="Write to AWS Cloudwatch logs. " alt="" coords="591,5,730,47"/>
+<area shape="rect" id="node8" href="$classchucho_1_1loggly__writer.html" title="Write to Loggly. " alt="" coords="588,71,733,98"/>
+<area shape="rect" id="node12" href="$classchucho_1_1cerr__writer.html" title="A chucho::file_descriptor_writer that writes to std::cerr. " alt="" coords="594,122,727,149"/>
+<area shape="rect" id="node13" href="$classchucho_1_1cout__writer.html" title="A file_descriptor_writer that writes to std::cout. " alt="" coords="593,173,729,199"/>
+<area shape="rect" id="node14" href="$classchucho_1_1file__writer.html" title="A writer that writes to a file. " alt="" coords="597,223,725,250"/>
+<area shape="rect" id="node18" href="$classchucho_1_1pipe__writer.html" title="The pipe writer creates a pipe and attaches itself to the output end of it. " alt="" coords="593,274,728,301"/>
+<area shape="rect" id="node15" href="$classchucho_1_1door__writer.html" title="Write to Solaris doors. " alt="" coords="794,165,930,191"/>
+<area shape="rect" id="node16" href="$classchucho_1_1named__pipe__writer.html" title="A writer for writing to named pipes. " alt="" coords="791,216,933,257"/>
+<area shape="rect" id="node17" href="$classchucho_1_1rolling__file__writer.html" title="A writer that writes to files and rolls them. " alt="" coords="797,281,927,323"/>
+<area shape="rect" id="node20" href="$classchucho_1_1activemq__writer.html" title="A writer that publishes ActiveMQ messages. " alt="" coords="579,325,743,351"/>
+<area shape="rect" id="node21" href="$classchucho_1_1rabbitmq__writer.html" title="A writer that publishes RabbitMQ messages. " alt="" coords="580,375,741,402"/>
+<area shape="rect" id="node22" href="$classchucho_1_1zeromq__writer.html" title="A writer that publishes ZeroMQ messages. " alt="" coords="583,426,738,453"/>
+</map>

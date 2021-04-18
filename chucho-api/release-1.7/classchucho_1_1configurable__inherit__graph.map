@@ -1,0 +1,38 @@
+<map id="chucho::configurable" name="chucho::configurable">
+<area shape="rect" id="node2" href="$classchucho_1_1file__compressor.html" title="File compressors are able to compress files. " alt="" coords="203,121,376,148"/>
+<area shape="rect" id="node7" href="$classchucho_1_1file__roll__trigger.html" title="Determine when a file should roll. " alt="" coords="206,325,373,352"/>
+<area shape="rect" id="node11" href="$classchucho_1_1file__roller.html" title="Roll files. " alt="" coords="224,447,355,473"/>
+<area shape="rect" id="node14" href="$classchucho_1_1filter.html" title="Conditionally filter an event. " alt="" coords="239,628,339,655"/>
+<area shape="rect" id="node20" href="$classchucho_1_1formatter.html" title="Format an event. " alt="" coords="224,724,355,751"/>
+<area shape="rect" id="node23" href="$classchucho_1_1logger.html" title="A logger writes stuff when someone wants to log something. " alt="" coords="233,775,346,801"/>
+<area shape="rect" id="node24" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use. " alt="" coords="235,973,343,1000"/>
+<area shape="rect" id="node3" href="$classchucho_1_1bzip2__file__compressor.html" title="Compress using the bzip2 format and a file name extension of .bz2. " alt="" coords="465,5,597,46"/>
+<area shape="rect" id="node4" href="$classchucho_1_1gzip__file__compressor.html" title="Compress using the bzip format and a file name extension of .gz. " alt="" coords="427,71,634,97"/>
+<area shape="rect" id="node5" href="$classchucho_1_1noop__file__compressor.html" title="Don&#39;t do anything. " alt="" coords="424,121,637,148"/>
+<area shape="rect" id="node6" href="$classchucho_1_1zip__file__compressor.html" title="Compress using the zip archive format and a file name extension of .zip. " alt="" coords="431,172,630,199"/>
+<area shape="rect" id="node8" href="$classchucho_1_1interval__file__roll__trigger.html" title="A file_roll_trigger that will be triggered at intervals of time. " alt="" coords="458,223,603,265"/>
+<area shape="rect" id="node9" href="$classchucho_1_1size__file__roll__trigger.html" title="A file_roll_trigger that monitors file size. " alt="" coords="455,289,606,330"/>
+<area shape="rect" id="node10" href="$classchucho_1_1time__file__roller.html" title="A file_roller that rolls files by time. " alt="" coords="448,355,613,381"/>
+<area shape="rect" id="node12" href="$classchucho_1_1numbered__file__roller.html" title="A file_roller that numbers the rolled files. " alt="" coords="450,406,611,447"/>
+<area shape="rect" id="node13" href="$classchucho_1_1sliding__numbered__file__roller.html" title="A file_roller that numbers files from a minimum index in increasing order. " alt="" coords="439,471,622,513"/>
+<area shape="rect" id="node15" href="$classchucho_1_1duplicate__message__filter.html" title="A filter for removing duplicate messages. " alt="" coords="433,537,628,578"/>
+<area shape="rect" id="node16" href="$classchucho_1_1evaluator__filter.html" title="An evaluator filter determines the filtration status of an event by evaluating a piece of code..." alt="" coords="447,603,614,629"/>
+<area shape="rect" id="node18" href="$classchucho_1_1level__filter.html" title="A filter that targets a specific log level. " alt="" coords="462,653,599,680"/>
+<area shape="rect" id="node19" href="$classchucho_1_1level__threshold__filter.html" title="A filter that tests the log level. " alt="" coords="446,705,615,746"/>
+<area shape="rect" id="node17" href="$classchucho_1_1ruby__evaluator__filter.html" title="Filter by evaulating a Ruby expression. " alt="" coords="688,595,853,637"/>
+<area shape="rect" id="node21" href="$classchucho_1_1pattern__formatter.html" title="A pattern_formatter accepts a pattern in its constructor that is then used to format events..." alt="" coords="439,771,622,797"/>
+<area shape="rect" id="node22" href="$classchucho_1_1yaml__formatter.html" title="A formatter that outputs the event to a YAML mapping. " alt="" coords="447,821,614,848"/>
+<area shape="rect" id="node25" href="$classchucho_1_1async__writer.html" title="An asynchronous writer. " alt="" coords="454,872,607,899"/>
+<area shape="rect" id="node26" href="$classchucho_1_1console__writer.html" title="A writer that writes to the console. " alt="" coords="448,923,613,949"/>
+<area shape="rect" id="node29" href="$classchucho_1_1database__writer.html" title="A writer that writes to a database. " alt="" coords="443,973,618,1000"/>
+<area shape="rect" id="node34" href="$classchucho_1_1file__writer.html" title="A writer that writes to a file. " alt="" coords="463,1024,598,1051"/>
+<area shape="rect" id="node36" href="$classchucho_1_1remote__writer.html" title="A writer that writes to a (possibly) remote chucho server. " alt="" coords="451,1075,611,1101"/>
+<area shape="rect" id="node37" href="$classchucho_1_1syslog__writer.html" title="A writer that writes to syslog. " alt="" coords="453,1125,609,1152"/>
+<area shape="rect" id="node27" href="$classchucho_1_1cerr__writer.html" title="A chucho::console_writer that writes to std::cerr. " alt="" coords="700,821,841,848"/>
+<area shape="rect" id="node28" href="$classchucho_1_1cout__writer.html" title="A console_writer that writes to std::cout. " alt="" coords="699,872,842,899"/>
+<area shape="rect" id="node30" href="$classchucho_1_1mysql__writer.html" title="A writer that sends log events to a MySQL database. " alt="" coords="695,923,847,949"/>
+<area shape="rect" id="node31" href="$classchucho_1_1oracle__writer.html" title="A writer that sends log events to an Oracle database. " alt="" coords="693,973,848,1000"/>
+<area shape="rect" id="node32" href="$classchucho_1_1postgres__writer.html" title="A writer that sends log events to an PostgreSQL database. " alt="" coords="685,1024,856,1051"/>
+<area shape="rect" id="node33" href="$classchucho_1_1sqlite__writer.html" title="A writer that writes log events to a SQLite database. " alt="" coords="696,1075,845,1101"/>
+<area shape="rect" id="node35" href="$classchucho_1_1rolling__file__writer.html" title="A writer that writes to files and rolls them. " alt="" coords="702,1126,839,1167"/>
+</map>

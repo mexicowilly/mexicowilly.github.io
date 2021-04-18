@@ -1,0 +1,9 @@
+<map id="serializer.h" name="serializer.h">
+<area shape="rect" id="node2" href="$formatted__message__serializer_8h.html" title="A serializer that simply turns the text of a formatted message into a blob. " alt="" coords="5,80,212,107"/>
+<area shape="rect" id="node3" href="$protobuf__serializer_8h.html" title="A serializer that creates a protobuf message. " alt="" coords="237,80,375,107"/>
+<area shape="rect" id="node4" href="$capn__proto__serializer_8h.html" title="A serializer that creates a Cap&#39;n Proto message. " alt="" coords="400,80,556,107"/>
+<area shape="rect" id="node5" href="$flatbuffers__serializer_8h.html" title="A serializer that creates a flatbuffers message. " alt="" coords="580,80,731,107"/>
+<area shape="rect" id="node6" href="$zeromq__writer_8h.html" title="Functions for ZeroMQ writers. " alt="" coords="755,80,870,107"/>
+<area shape="rect" id="node7" href="$activemq__writer_8h.html" title="Functions for ActiveMQ writers. " alt="" coords="894,80,1019,107"/>
+<area shape="rect" id="node8" href="$rabbitmq__writer_8h.html" title="Functions for RabbitMQ writers. " alt="" coords="1043,80,1166,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="chucho::cache_and_release_filter" name="chucho::cache_and_release_filter">
+<area shape="rect" id="node2" href="$classchucho_1_1filter.html" title="Conditionally filter an event. " alt="" coords="123,87,220,114"/>
+<area shape="rect" id="node3" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node4" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="188,5,331,32"/>
+<area shape="rect" id="node5" href="$classchucho_1_1event__cache__provider.html" title="A holder of an event cache. " alt="" coords="245,80,391,121"/>
+</map>

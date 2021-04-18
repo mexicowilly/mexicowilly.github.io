@@ -1,0 +1,17 @@
+<map id="chucho::non_copyable" name="chucho::non_copyable">
+<area shape="rect" id="node3" href="$classchucho_1_1file__roller.html" title="Roll files." alt="" coords="208,111,334,139"/>
+<area shape="rect" id="node11" href="$classchucho_1_1logger.html" title="A logger writes stuff when someone wants to log something." alt="" coords="216,219,325,247"/>
+<area shape="rect" id="node13" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use." alt="" coords="219,297,323,325"/>
+<area shape="rect" id="node5" href="$classchucho_1_1numbered__file__roller.html" title="A file_roller that numbers the rolled files." alt="" coords="393,5,549,49"/>
+<area shape="rect" id="node7" href="$classchucho_1_1sliding__numbered__file__roller.html" title="A file_roller that numbers files from a minimum index in increasing order." alt="" coords="382,73,559,117"/>
+<area shape="rect" id="node9" href="$classchucho_1_1time__file__roller.html" title="A file_roller that rolls files by time." alt="" coords="391,141,550,169"/>
+<area shape="rect" id="node15" href="$classchucho_1_1async__writer.html" title="An asynchronous writer." alt="" coords="397,193,544,221"/>
+<area shape="rect" id="node17" href="$classchucho_1_1console__writer.html" title="A writer that writes to the console." alt="" coords="392,245,550,273"/>
+<area shape="rect" id="node23" href="$classchucho_1_1file__writer.html" title="A writer that writes to a file." alt="" coords="406,297,535,325"/>
+<area shape="rect" id="node27" href="$classchucho_1_1remote__writer.html" title="A writer that writes to a (possibly) remote chucho server." alt="" coords="394,349,547,377"/>
+<area shape="rect" id="node29" href="$classchucho_1_1syslog__writer.html" title="A writer that writes to syslog." alt="" coords="396,401,545,429"/>
+<area shape="rect" id="node31" href="$classchucho_1_1windows__event__log__writer.html" title="A writer that sends message to Windows Event Log." alt="" coords="389,453,552,497"/>
+<area shape="rect" id="node19" href="$classchucho_1_1cerr__writer.html" title="A console_writer that writes to std::cerr." alt="" coords="610,193,745,221"/>
+<area shape="rect" id="node21" href="$classchucho_1_1cout__writer.html" title="A console_writer that writes to std::cout." alt="" coords="609,245,746,273"/>
+<area shape="rect" id="node25" href="$classchucho_1_1rolling__file__writer.html" title="A writer that writes to files and rolls them." alt="" coords="611,297,743,341"/>
+</map>

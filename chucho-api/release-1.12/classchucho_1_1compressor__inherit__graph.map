@@ -1,0 +1,10 @@
+<map id="chucho::compressor" name="chucho::compressor">
+<area shape="rect" id="node5" href="$classchucho_1_1bzip2__compressor.html" title="A compressor that uses bzip2. " alt="" coords="400,5,579,32"/>
+<area shape="rect" id="node6" href="$classchucho_1_1lz4__compressor.html" title="A compressor that uses LZ4. " alt="" coords="407,56,571,83"/>
+<area shape="rect" id="node7" href="$classchucho_1_1lzma__compressor.html" title="A compressor that uses LZMA. " alt="" coords="402,107,577,133"/>
+<area shape="rect" id="node8" href="$classchucho_1_1noop__compressor.html" title="A compressor that does nothing. " alt="" coords="402,157,577,184"/>
+<area shape="rect" id="node9" href="$classchucho_1_1zlib__compressor.html" title="A compressor that uses zlib. " alt="" coords="406,208,573,235"/>
+<area shape="rect" id="node2" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="9,56,161,83"/>
+<area shape="rect" id="node3" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="13,107,156,133"/>
+<area shape="rect" id="node4" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,157,164,184"/>
+</map>

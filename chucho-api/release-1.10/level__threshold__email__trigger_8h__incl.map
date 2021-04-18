@@ -1,0 +1,7 @@
+<map id="level_threshold_email_trigger.h" name="level_threshold_email_trigger.h">
+<area shape="rect" id="node2" href="$email__trigger_8h.html" title="An email trigger is used by email_writer to tell it when email should be sent. " alt="" coords="5,95,159,121"/>
+<area shape="rect" id="node5" href="$level_8h.html" title="Levels of Chucho logging. " alt="" coords="183,95,290,121"/>
+<area shape="rect" id="node3" href="$return__code_8h.html" title="Return codes of Chucho C functions. " alt="" coords="9,169,155,196"/>
+<area shape="rect" id="node4" href="$export_8h_source.html" title="chucho/export.h" alt="" coords="25,244,139,271"/>
+<area shape="rect" id="node6" href="$syslog__constants_8h.html" title="Constants used in writing to syslog. " alt="" coords="179,169,361,196"/>
+</map>

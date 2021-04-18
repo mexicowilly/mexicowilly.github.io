@@ -1,0 +1,4 @@
+<map id="email_trigger.h" name="email_trigger.h">
+<area shape="rect" id="node2" href="$email__writer_8h.html" title="Functions for creating and querying email writers. " alt="" coords="5,88,115,115"/>
+<area shape="rect" id="node3" href="$level__threshold__email__trigger_8h.html" title="An email trigger that fires whenever an event reaches a certain log level. " alt="" coords="139,81,297,122"/>
+</map>

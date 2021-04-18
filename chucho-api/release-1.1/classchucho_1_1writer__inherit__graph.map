@@ -1,0 +1,9 @@
+<map id="chucho::writer" name="chucho::writer">
+<area shape="rect" id="node7" href="$classchucho_1_1console__writer.html" title="A writer that writes to the console." alt="" coords="149,161,307,189"/>
+<area shape="rect" id="node13" href="$classchucho_1_1file__writer.html" title="A writer that writes to a file." alt="" coords="330,161,459,189"/>
+<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status." alt="" coords="142,6,303,34"/>
+<area shape="rect" id="node4" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object." alt="" coords="328,6,472,34"/>
+<area shape="rect" id="node9" href="$classchucho_1_1cerr__writer.html" title="A console_writer that writes to std::cerr." alt="" coords="5,246,139,274"/>
+<area shape="rect" id="node11" href="$classchucho_1_1cout__writer.html" title="A console_writer that writes to std::cout." alt="" coords="164,246,300,274"/>
+<area shape="rect" id="node15" href="$classchucho_1_1rolling__file__writer.html" title="A writer that writes to files and rolls them." alt="" coords="329,238,460,282"/>
+</map>

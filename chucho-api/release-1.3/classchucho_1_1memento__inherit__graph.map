@@ -1,0 +1,6 @@
+<map id="chucho::memento" name="chucho::memento">
+<area shape="rect" id="node5" href="$classchucho_1_1file__compressor__memento.html" title="A memento that handles shared functionality for all file_compressors." alt="" coords="5,161,171,205"/>
+<area shape="rect" id="node7" href="$classchucho_1_1file__roller__memento.html" title="A memento shared by all file_roller classes." alt="" coords="194,161,320,205"/>
+<area shape="rect" id="node9" href="$classchucho_1_1writer__memento.html" title="A memento that has common functionality for writers." alt="" coords="344,169,511,197"/>
+<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status." alt="" coords="177,6,337,34"/>
+</map>

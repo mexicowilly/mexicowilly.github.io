@@ -1,0 +1,11 @@
+<map id="file_compressor.h" name="file_compressor.h">
+<area shape="rect" id="node2" href="$file__roller_8h.html" title="Types and functions common to all file rollers. " alt="" coords="283,80,368,107"/>
+<area shape="rect" id="node7" href="$gzip__file__compressor_8h.html" title="Creation of gzip file compressors. " alt="" coords="393,80,549,107"/>
+<area shape="rect" id="node8" href="$bzip2__file__compressor_8h.html" title="Creation of bzip2 file compressors. " alt="" coords="573,80,736,107"/>
+<area shape="rect" id="node9" href="$zip__file__compressor_8h.html" title="Compress using the zip archive format and a file name extension of .zip. " alt="" coords="760,80,909,107"/>
+<area shape="rect" id="node10" href="$lzma__file__compressor_8h.html" title="Creation of lzma file compressors. " alt="" coords="933,80,1093,107"/>
+<area shape="rect" id="node3" href="$numbered__file__roller_8h.html" title="Functions related to numbered file rollers. " alt="" coords="5,162,155,189"/>
+<area shape="rect" id="node4" href="$rolling__file__writer_8h.html" title="A writer that writes to files and rolls them. " alt="" coords="179,162,309,189"/>
+<area shape="rect" id="node5" href="$sliding__numbered__file__roller_8h.html" title="A file_roller that numbers files from a minimum index in increasing order. " alt="" coords="333,155,480,196"/>
+<area shape="rect" id="node6" href="$time__file__roller_8h.html" title="A file_roller that rolls files by time. " alt="" coords="504,162,621,189"/>
+</map>

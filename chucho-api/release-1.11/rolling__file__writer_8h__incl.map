@@ -1,0 +1,11 @@
+<map id="rolling_file_writer.h" name="rolling_file_writer.h">
+<area shape="rect" id="node2" href="$file__writer_8h.html" title="A writer that writes to a file. " alt="" coords="167,80,302,107"/>
+<area shape="rect" id="node9" href="$file__roller_8h.html" title="Types and functions common to all file rollers. " alt="" coords="327,155,457,181"/>
+<area shape="rect" id="node11" href="$file__roll__trigger_8h.html" title="Types and functions common to all file roll triggers. " alt="" coords="492,80,655,107"/>
+<area shape="rect" id="node3" href="$writer_8h.html" title="Functions that can be used with any of the writers created by one of the writer creation functions..." alt="" coords="159,155,270,181"/>
+<area shape="rect" id="node4" href="$filter_8h.html" title="Types and functions common to all filters. " alt="" coords="5,229,109,256"/>
+<area shape="rect" id="node7" href="$formatter_8h.html" title="Functions that can be used with any formatter. " alt="" coords="133,229,264,256"/>
+<area shape="rect" id="node5" href="$return__code_8h.html" title="Return codes of Chucho C functions. " alt="" coords="259,304,405,331"/>
+<area shape="rect" id="node6" href="$export_8h_source.html" title="chucho/export.h" alt="" coords="275,379,389,405"/>
+<area shape="rect" id="node10" href="$file__compressor_8h.html" title="Functions common to all file compressors. " alt="" coords="381,229,552,256"/>
+</map>

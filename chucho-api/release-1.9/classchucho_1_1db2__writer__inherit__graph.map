@@ -1,0 +1,7 @@
+<map id="chucho::db2_writer" name="chucho::db2_writer">
+<area shape="rect" id="node2" href="$classchucho_1_1database__writer.html" title="A writer that writes to a database. " alt="" coords="187,155,361,181"/>
+<area shape="rect" id="node3" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use. " alt="" coords="221,80,328,107"/>
+<area shape="rect" id="node4" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node5" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="190,5,359,32"/>
+<area shape="rect" id="node6" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="384,5,532,32"/>
+</map>

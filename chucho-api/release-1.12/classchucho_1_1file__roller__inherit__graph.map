@@ -1,0 +1,8 @@
+<map id="chucho::file_roller" name="chucho::file_roller">
+<area shape="rect" id="node5" href="$classchucho_1_1numbered__file__roller.html" title="A file_roller that numbers the rolled files. " alt="" coords="394,5,547,47"/>
+<area shape="rect" id="node6" href="$classchucho_1_1sliding__numbered__file__roller.html" title="A file_roller that numbers files from a minimum index in increasing order. " alt="" coords="384,71,557,112"/>
+<area shape="rect" id="node7" href="$classchucho_1_1time__file__roller.html" title="A file_roller that rolls files by time. " alt="" coords="393,137,549,163"/>
+<area shape="rect" id="node2" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="9,27,161,54"/>
+<area shape="rect" id="node3" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,78,164,105"/>
+<area shape="rect" id="node4" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="13,129,156,155"/>
+</map>

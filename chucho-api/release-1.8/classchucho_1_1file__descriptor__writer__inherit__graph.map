@@ -1,0 +1,12 @@
+<map id="chucho::file_descriptor_writer" name="chucho::file_descriptor_writer">
+<area shape="rect" id="node6" href="$classchucho_1_1cerr__writer.html" title="A chucho::console_writer that writes to std::cerr. " alt="" coords="5,245,145,272"/>
+<area shape="rect" id="node7" href="$classchucho_1_1cout__writer.html" title="A console_writer that writes to std::cout. " alt="" coords="170,245,312,272"/>
+<area shape="rect" id="node8" href="$classchucho_1_1file__writer.html" title="A writer that writes to a file. " alt="" coords="337,245,471,272"/>
+<area shape="rect" id="node11" href="$classchucho_1_1pipe__writer.html" title="The pipe writer creates a pipe and attaches itself to the output end of it. " alt="" coords="495,245,637,272"/>
+<area shape="rect" id="node2" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use. " alt="" coords="269,80,376,107"/>
+<area shape="rect" id="node3" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="53,5,213,32"/>
+<area shape="rect" id="node4" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="238,5,407,32"/>
+<area shape="rect" id="node5" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="432,5,580,32"/>
+<area shape="rect" id="node9" href="$classchucho_1_1named__pipe__writer.html" title="A writer for writing to named pipes. " alt="" coords="245,321,395,362"/>
+<area shape="rect" id="node10" href="$classchucho_1_1rolling__file__writer.html" title="A writer that writes to files and rolls them. " alt="" coords="419,321,556,362"/>
+</map>

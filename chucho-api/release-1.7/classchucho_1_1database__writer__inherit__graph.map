@@ -1,0 +1,10 @@
+<map id="chucho::database_writer" name="chucho::database_writer">
+<area shape="rect" id="node6" href="$classchucho_1_1mysql__writer.html" title="A writer that sends log events to a MySQL database. " alt="" coords="615,5,767,32"/>
+<area shape="rect" id="node7" href="$classchucho_1_1oracle__writer.html" title="A writer that sends log events to an Oracle database. " alt="" coords="613,56,768,83"/>
+<area shape="rect" id="node8" href="$classchucho_1_1postgres__writer.html" title="A writer that sends log events to an PostgreSQL database. " alt="" coords="605,107,776,133"/>
+<area shape="rect" id="node9" href="$classchucho_1_1sqlite__writer.html" title="A writer that writes log events to a SQLite database. " alt="" coords="616,157,765,184"/>
+<area shape="rect" id="node2" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use. " alt="" coords="225,81,333,108"/>
+<area shape="rect" id="node3" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="10,31,171,57"/>
+<area shape="rect" id="node4" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="6,81,175,108"/>
+<area shape="rect" id="node5" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="16,132,165,159"/>
+</map>

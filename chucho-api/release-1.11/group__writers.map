@@ -1,0 +1,7 @@
+<map id="Writers" name="Writers">
+<area shape="rect" id="node1" href="$group__database.html" title="Classes that write to databases. " alt="" coords="285,88,364,115"/>
+<area shape="rect" id="node2" href="$group__rolling.html" title="Classes that roll files, write to rolled files, and determine when files should roll. " alt="" coords="277,148,372,175"/>
+<area shape="rect" id="node4" href="$group__mq.html" title="Classes for writing to message queues. " alt="" coords="263,249,387,276"/>
+<area shape="rect" id="node5" href="$group__syslog.html" title="Classes and enumerations related to writing to syslog. " alt="" coords="293,300,356,327"/>
+<area shape="rect" id="node6" href="$group__email.html" title="Classes that handle writing to email. " alt="" coords="297,351,352,377"/>
+</map>

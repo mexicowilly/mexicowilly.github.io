@@ -1,0 +1,6 @@
+<map id="file_roller.h" name="file_roller.h">
+<area shape="rect" id="node2" href="$numbered__file__roller_8h.html" title="Functions related to numbered file rollers. " alt="" coords="5,87,157,113"/>
+<area shape="rect" id="node3" href="$rolling__file__writer_8h.html" title="A writer that writes to files and rolls them. " alt="" coords="182,87,313,113"/>
+<area shape="rect" id="node4" href="$sliding__numbered__file__roller_8h.html" title="A file_roller that numbers files from a minimum index in increasing order. " alt="" coords="338,81,488,119"/>
+<area shape="rect" id="node5" href="$time__file__roller_8h.html" title="A file_roller that rolls files by time. " alt="" coords="513,87,631,113"/>
+</map>

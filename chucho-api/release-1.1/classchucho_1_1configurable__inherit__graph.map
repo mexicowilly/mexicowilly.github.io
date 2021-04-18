@@ -1,0 +1,19 @@
+<map id="chucho::configurable" name="chucho::configurable">
+<area shape="rect" id="node3" href="$classchucho_1_1file__roll__trigger.html" title="Determine when a file should roll." alt="" coords="198,73,357,101"/>
+<area shape="rect" id="node9" href="$classchucho_1_1file__roller.html" title="Roll files." alt="" coords="214,133,340,161"/>
+<area shape="rect" id="node14" href="$classchucho_1_1filter.html" title="Conditionally filter an event." alt="" coords="229,201,326,229"/>
+<area shape="rect" id="node20" href="$classchucho_1_1formatter.html" title="Format an event." alt="" coords="215,253,340,281"/>
+<area shape="rect" id="node24" href="$classchucho_1_1logger.html" title="A logger writes stuff when someone wants to log something." alt="" coords="223,305,332,333"/>
+<area shape="rect" id="node26" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use." alt="" coords="225,365,329,393"/>
+<area shape="rect" id="node5" href="$classchucho_1_1size__file__roll__trigger.html" title="A file_roll_trigger that monitors file size." alt="" coords="421,5,566,49"/>
+<area shape="rect" id="node7" href="$classchucho_1_1time__file__roller.html" title="A file_roller that rolls files by time." alt="" coords="414,73,573,101"/>
+<area shape="rect" id="node11" href="$classchucho_1_1numbered__file__roller.html" title="A file_roller that numbers the rolled files." alt="" coords="415,125,571,169"/>
+<area shape="rect" id="node16" href="$classchucho_1_1level__filter.html" title="A filter that targets a specific log level." alt="" coords="427,193,559,221"/>
+<area shape="rect" id="node18" href="$classchucho_1_1level__threshold__filter.html" title="A filter that tests the log level." alt="" coords="413,245,574,289"/>
+<area shape="rect" id="node22" href="$classchucho_1_1pattern__formatter.html" title="A pattern_formatter accepts a pattern in its constructor that is then used to format events..." alt="" coords="406,313,580,341"/>
+<area shape="rect" id="node28" href="$classchucho_1_1console__writer.html" title="A writer that writes to the console." alt="" coords="414,365,572,393"/>
+<area shape="rect" id="node34" href="$classchucho_1_1file__writer.html" title="A writer that writes to a file." alt="" coords="429,421,558,449"/>
+<area shape="rect" id="node30" href="$classchucho_1_1cerr__writer.html" title="A console_writer that writes to std::cerr." alt="" coords="631,313,766,341"/>
+<area shape="rect" id="node32" href="$classchucho_1_1cout__writer.html" title="A console_writer that writes to std::cout." alt="" coords="630,365,767,393"/>
+<area shape="rect" id="node36" href="$classchucho_1_1rolling__file__writer.html" title="A writer that writes to files and rolls them." alt="" coords="633,417,765,461"/>
+</map>

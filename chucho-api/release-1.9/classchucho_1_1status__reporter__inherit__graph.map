@@ -1,0 +1,50 @@
+<map id="chucho::status_reporter" name="chucho::status_reporter">
+<area shape="rect" id="node2" href="$classchucho_1_1compressor.html" title="Compressors that can be used with instances of message_queue_writer. " alt="" coords="235,56,381,83"/>
+<area shape="rect" id="node5" href="$classchucho_1_1configurable__factory.html" title="A factory for configurable classes. " alt="" coords="233,166,383,207"/>
+<area shape="rect" id="node8" href="$classchucho_1_1configurator.html" title="Configure chucho. " alt="" coords="234,320,382,347"/>
+<area shape="rect" id="node9" href="$classchucho_1_1email__trigger.html" title="An email trigger is used by email_writer to tell it when email should be sent. " alt="" coords="231,371,385,397"/>
+<area shape="rect" id="node11" href="$classchucho_1_1file__roll__trigger.html" title="Determine when a file should roll. " alt="" coords="225,421,391,448"/>
+<area shape="rect" id="node15" href="$classchucho_1_1file__roller.html" title="Roll files. " alt="" coords="243,513,373,540"/>
+<area shape="rect" id="node18" href="$classchucho_1_1filter.html" title="Conditionally filter an event. " alt="" coords="258,669,358,696"/>
+<area shape="rect" id="node24" href="$classchucho_1_1formatter.html" title="Format an event. " alt="" coords="243,720,373,747"/>
+<area shape="rect" id="node27" href="$classchucho_1_1log__streambuf.html" title="A standard streambuf that writes to a logger. " alt="" coords="227,771,389,797"/>
+<area shape="rect" id="node28" href="$classchucho_1_1logger.html" title="A logger writes stuff when someone wants to log something. " alt="" coords="251,821,365,848"/>
+<area shape="rect" id="node29" href="$classchucho_1_1memento.html" title="An abstract representation of an object that can be used to create a real one. " alt="" coords="243,980,373,1007"/>
+<area shape="rect" id="node33" href="$classchucho_1_1serializer.html" title="Message queues treat messages as blobs. " alt="" coords="243,1129,373,1156"/>
+<area shape="rect" id="node36" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use. " alt="" coords="254,1399,362,1425"/>
+<area shape="rect" id="node3" href="$classchucho_1_1noop__compressor.html" title="A compressor that does nothing. " alt="" coords="447,5,633,32"/>
+<area shape="rect" id="node4" href="$classchucho_1_1zlib__compressor.html" title="A compressor that uses zlib. " alt="" coords="453,56,627,83"/>
+<area shape="rect" id="node6" href="$classchucho_1_1file__compressor__factory.html" title="A factory for creating a file_compressor at configuration time. " alt="" coords="453,107,627,149"/>
+<area shape="rect" id="node7" href="$classchucho_1_1writer__factory.html" title="A configurable_factory that has common functionality for writers. " alt="" coords="461,173,619,200"/>
+<area shape="rect" id="node10" href="$classchucho_1_1level__threshold__email__trigger.html" title="An email trigger that fires whenever an event reaches a certain log level. " alt="" coords="455,225,625,266"/>
+<area shape="rect" id="node12" href="$classchucho_1_1interval__file__roll__trigger.html" title="A file_roll_trigger that will be triggered at intervals of time. " alt="" coords="467,290,613,331"/>
+<area shape="rect" id="node13" href="$classchucho_1_1size__file__roll__trigger.html" title="A file_roll_trigger that monitors file size. " alt="" coords="465,355,615,397"/>
+<area shape="rect" id="node14" href="$classchucho_1_1time__file__roller.html" title="A file_roller that rolls files by time. " alt="" coords="457,421,623,448"/>
+<area shape="rect" id="node16" href="$classchucho_1_1numbered__file__roller.html" title="A file_roller that numbers the rolled files. " alt="" coords="459,473,621,514"/>
+<area shape="rect" id="node17" href="$classchucho_1_1sliding__numbered__file__roller.html" title="A file_roller that numbers files from a minimum index in increasing order. " alt="" coords="449,538,631,579"/>
+<area shape="rect" id="node19" href="$classchucho_1_1duplicate__message__filter.html" title="A filter for removing duplicate messages. " alt="" coords="443,603,637,645"/>
+<area shape="rect" id="node20" href="$classchucho_1_1evaluator__filter.html" title="An evaluator filter determines the filtration status of an event by evaluating a piece of code..." alt="" coords="457,669,623,696"/>
+<area shape="rect" id="node22" href="$classchucho_1_1level__filter.html" title="A filter that targets a specific log level. " alt="" coords="471,720,609,747"/>
+<area shape="rect" id="node23" href="$classchucho_1_1level__threshold__filter.html" title="A filter that tests the log level. " alt="" coords="455,771,625,813"/>
+<area shape="rect" id="node21" href="$classchucho_1_1ruby__evaluator__filter.html" title="Filter by evaulating a Ruby expression. " alt="" coords="691,662,856,703"/>
+<area shape="rect" id="node25" href="$classchucho_1_1pattern__formatter.html" title="A pattern_formatter accepts a pattern in its constructor that is then used to format events..." alt="" coords="449,837,631,864"/>
+<area shape="rect" id="node26" href="$classchucho_1_1yaml__formatter.html" title="A formatter that outputs the event to a YAML mapping. " alt="" coords="457,888,623,915"/>
+<area shape="rect" id="node30" href="$classchucho_1_1file__compressor__memento.html" title="A memento that handles shared functionality for all file_compressors. " alt="" coords="453,939,627,981"/>
+<area shape="rect" id="node31" href="$classchucho_1_1file__roller__memento.html" title="A memento shared by all file_roller classes. " alt="" coords="475,1005,605,1046"/>
+<area shape="rect" id="node32" href="$classchucho_1_1writer__memento.html" title="A memento that has common functionality for writers. " alt="" coords="453,1071,627,1097"/>
+<area shape="rect" id="node34" href="$classchucho_1_1formatted__message__serializer.html" title="A serializer that simply turns the text of a formatted message into a blob. " alt="" coords="441,1122,639,1163"/>
+<area shape="rect" id="node35" href="$classchucho_1_1protobuf__serializer.html" title="A serializer that creates a protobuf message. " alt="" coords="445,1188,635,1215"/>
+<area shape="rect" id="node37" href="$classchucho_1_1async__writer.html" title="An asynchronous writer. " alt="" coords="463,1239,617,1265"/>
+<area shape="rect" id="node38" href="$classchucho_1_1database__writer.html" title="A writer that writes to a database. " alt="" coords="453,1289,627,1316"/>
+<area shape="rect" id="node44" href="$classchucho_1_1email__writer.html" title="A writer that sends log events via email. " alt="" coords="465,1340,615,1367"/>
+<area shape="rect" id="node45" href="$classchucho_1_1file__descriptor__writer.html" title="Writing to a file descriptor. " alt="" coords="459,1391,621,1433"/>
+<area shape="rect" id="node46" href="$classchucho_1_1message__queue__writer.html" title="A base class for writing to a message queue. " alt="" coords="452,1457,628,1498"/>
+<area shape="rect" id="node47" href="$classchucho_1_1remote__writer.html" title="A writer that writes to a (possibly) remote chucho server. " alt="" coords="460,1523,620,1549"/>
+<area shape="rect" id="node48" href="$classchucho_1_1syslog__writer.html" title="A writer that writes to syslog. " alt="" coords="462,1573,618,1600"/>
+<area shape="rect" id="node49" href="$classchucho_1_1windows__event__log__writer.html" title="A writer that sends message to Windows Event Log. " alt="" coords="455,1625,625,1666"/>
+<area shape="rect" id="node39" href="$classchucho_1_1db2__writer.html" title="A writer that writes log events to a DB2 database. " alt="" coords="704,1188,843,1215"/>
+<area shape="rect" id="node40" href="$classchucho_1_1mysql__writer.html" title="A writer that sends log events to a MySQL database. " alt="" coords="697,1239,849,1265"/>
+<area shape="rect" id="node41" href="$classchucho_1_1oracle__writer.html" title="A writer that sends log events to an Oracle database. " alt="" coords="696,1289,851,1316"/>
+<area shape="rect" id="node42" href="$classchucho_1_1postgres__writer.html" title="A writer that sends log events to an PostgreSQL database. " alt="" coords="688,1340,859,1367"/>
+<area shape="rect" id="node43" href="$classchucho_1_1sqlite__writer.html" title="A writer that writes log events to a SQLite database. " alt="" coords="699,1391,848,1417"/>
+</map>

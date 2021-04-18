@@ -1,0 +1,10 @@
+<map id="log.h" name="log.h">
+<area shape="rect" id="node2" href="$logger_8h.html" title="A logger writes stuff when someone wants to log something. " alt="" coords="397,80,512,107"/>
+<area shape="rect" id="node3" href="$level_8h.html" title="Levels of Chucho logging. " alt="" coords="171,155,277,181"/>
+<area shape="rect" id="node7" href="$writer_8h.html" title="Functions that can be used with any of the writers created by one of the writer creation functions..." alt="" coords="399,155,510,181"/>
+<area shape="rect" id="node4" href="$syslog__constants_8h.html" title="Constants used in writing to syslog. " alt="" coords="5,229,187,256"/>
+<area shape="rect" id="node5" href="$return__code_8h.html" title="Return codes of Chucho C functions. " alt="" coords="240,304,387,331"/>
+<area shape="rect" id="node6" href="$export_8h_source.html" title="chucho/export.h" alt="" coords="256,379,371,405"/>
+<area shape="rect" id="node8" href="$filter_8h.html" title="Types and functions common to all filters. " alt="" coords="261,229,365,256"/>
+<area shape="rect" id="node9" href="$formatter_8h.html" title="Functions that can be used with any formatter. " alt="" coords="389,229,520,256"/>
+</map>

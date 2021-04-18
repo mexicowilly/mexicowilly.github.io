@@ -1,0 +1,5 @@
+<map id="chucho::configurable_factory" name="chucho::configurable_factory">
+<area shape="rect" id="node3" href="$classchucho_1_1file__compressor__factory.html" title="A factory for creating a file_compressor at configuration time. " alt="" coords="5,171,179,213"/>
+<area shape="rect" id="node4" href="$classchucho_1_1writer__factory.html" title="A configurable_factory that has common functionality for writers. " alt="" coords="203,179,361,205"/>
+<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="102,5,271,32"/>
+</map>

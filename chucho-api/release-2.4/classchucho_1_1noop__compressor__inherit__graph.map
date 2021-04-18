@@ -1,0 +1,6 @@
+<map id="chucho::noop_compressor" name="chucho::noop_compressor">
+<area shape="rect" id="node2" href="$classchucho_1_1compressor.html" title="Compressors that can be used with instances of message_queue_writer. " alt="" coords="183,80,323,107"/>
+<area shape="rect" id="node3" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node4" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="182,5,325,32"/>
+<area shape="rect" id="node5" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="349,5,507,32"/>
+</map>
