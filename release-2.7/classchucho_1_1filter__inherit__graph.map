@@ -1,0 +1,11 @@
+<map id="chucho::filter" name="chucho::filter">
+<area shape="rect" id="node4" href="$classchucho_1_1evaluator__filter.html" title="An evaluator filter determines the filtration status of an event by evaluating a piece of code..." alt="" coords="358,13,515,39"/>
+<area shape="rect" id="node6" href="$classchucho_1_1level__filter.html" title="A filter that targets a specific log level. " alt="" coords="371,63,502,90"/>
+<area shape="rect" id="node7" href="$classchucho_1_1level__threshold__filter.html" title="A filter that tests the log level. " alt="" coords="357,115,516,156"/>
+<area shape="rect" id="node8" href="$classchucho_1_1writeable__filter.html" title="A filter that is able to write messages to a writer. " alt="" coords="359,181,515,207"/>
+<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,67,164,94"/>
+<area shape="rect" id="node3" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="13,118,156,145"/>
+<area shape="rect" id="node5" href="$classchucho_1_1ruby__evaluator__filter.html" title="Filter by evaulating a Ruby expression. " alt="" coords="577,5,735,47"/>
+<area shape="rect" id="node9" href="$classchucho_1_1cache__and__release__filter.html" title="A filter for caching messages below a certain level threshold and then releasing them when a higher l..." alt="" coords="564,140,748,181"/>
+<area shape="rect" id="node10" href="$classchucho_1_1duplicate__message__filter.html" title="A filter for removing duplicate messages. " alt="" coords="564,205,748,247"/>
+</map>

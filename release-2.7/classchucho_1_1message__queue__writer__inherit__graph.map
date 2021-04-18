@@ -1,0 +1,10 @@
+<map id="chucho::message_queue_writer" name="chucho::message_queue_writer">
+<area shape="rect" id="node6" href="$classchucho_1_1activemq__writer.html" title="A writer that publishes ActiveMQ messages. " alt="" coords="579,5,743,32"/>
+<area shape="rect" id="node7" href="$classchucho_1_1kafka__writer.html" title="Write to a Kafka server. " alt="" coords="589,56,732,83"/>
+<area shape="rect" id="node8" href="$classchucho_1_1rabbitmq__writer.html" title="A writer that publishes RabbitMQ messages. " alt="" coords="580,107,741,133"/>
+<area shape="rect" id="node9" href="$classchucho_1_1zeromq__writer.html" title="A writer that publishes ZeroMQ messages. " alt="" coords="583,157,738,184"/>
+<area shape="rect" id="node2" href="$classchucho_1_1writer.html" title="A writer writes events to whatever destination it is designed to use. " alt="" coords="212,81,316,108"/>
+<area shape="rect" id="node3" href="$classchucho_1_1non__copyable.html" title="An object that cannot be copied. " alt="" coords="9,31,161,57"/>
+<area shape="rect" id="node4" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="5,81,164,108"/>
+<area shape="rect" id="node5" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="13,132,156,159"/>
+</map>

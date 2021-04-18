@@ -1,0 +1,7 @@
+<map id="chucho::writeable_filter" name="chucho::writeable_filter">
+<area shape="rect" id="node5" href="$classchucho_1_1cache__and__release__filter.html" title="A filter for caching messages below a certain level threshold and then releasing them when a higher l..." alt="" coords="5,229,189,271"/>
+<area shape="rect" id="node6" href="$classchucho_1_1duplicate__message__filter.html" title="A filter for removing duplicate messages. " alt="" coords="213,229,397,271"/>
+<area shape="rect" id="node2" href="$classchucho_1_1filter.html" title="Conditionally filter an event. " alt="" coords="153,80,250,107"/>
+<area shape="rect" id="node3" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="35,5,194,32"/>
+<area shape="rect" id="node4" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="218,5,361,32"/>
+</map>
