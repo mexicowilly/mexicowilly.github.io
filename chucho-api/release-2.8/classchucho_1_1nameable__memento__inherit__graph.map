@@ -1,0 +1,6 @@
+<map id="chucho::nameable_memento" name="chucho::nameable_memento">
+<area shape="rect" id="node4" href="$classchucho_1_1filter__memento.html" title="A memento that has common functionality for filters. " alt="" coords="5,229,164,256"/>
+<area shape="rect" id="node5" href="$classchucho_1_1writer__memento.html" title="A memento that has common functionality for writers. " alt="" coords="189,229,354,256"/>
+<area shape="rect" id="node2" href="$classchucho_1_1memento.html" title="An abstract representation of an object that can be used to create a real one. " alt="" coords="115,80,241,107"/>
+<area shape="rect" id="node3" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="99,5,257,32"/>
+</map>

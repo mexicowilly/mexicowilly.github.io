@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classchucho_1_1loggable.html" title="A class that inherits from loggable gets a logger associated with each instance for free..." alt="" coords="5,13,175,39"/>
+<area shape="rect" id="node2" href="$classchucho_1_1streamable.html" title="A class that inherits from streamable gets a chucho::logger and a log_stream for free. " alt="" coords="223,5,359,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="chucho::formatter" name="chucho::formatter">
+<area shape="rect" id="node4" href="$classchucho_1_1pattern__formatter.html" title="A pattern_formatter accepts a pattern in its constructor that is then used to format events..." alt="" coords="5,162,176,189"/>
+<area shape="rect" id="node5" href="$classchucho_1_1serialization__formatter.html" title="A formatter that produces output in a serialized fashion. " alt="" coords="200,155,341,196"/>
+<area shape="rect" id="node2" href="$classchucho_1_1status__reporter.html" title="Report chucho&#39;s internal status. " alt="" coords="14,5,173,32"/>
+<area shape="rect" id="node3" href="$classchucho_1_1configurable.html" title="Indicates configurability of an object. " alt="" coords="197,5,339,32"/>
+<area shape="rect" id="node6" href="$classchucho_1_1json__formatter.html" title="A formatter that produces JSON. " alt="" coords="103,244,257,271"/>
+<area shape="rect" id="node7" href="$classchucho_1_1yaml__formatter.html" title="A formatter that produces YAML. " alt="" coords="282,244,441,271"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="C" name="C">
+<area shape="rect" id="node2" href="$group__c__miscellaneous.html" title="Stuff that has no relatives. " alt="" coords="92,5,197,32"/>
+<area shape="rect" id="node3" href="$group__c__loggers.html" title="Types, functions and macros for writing filtered log events. " alt="" coords="111,56,179,83"/>
+<area shape="rect" id="node4" href="$group__c__configuration.html" title="Functions that help manage the configuration of Chucho. " alt="" coords="95,107,194,133"/>
+</map>

@@ -1,0 +1,36 @@
+var optional__features_8hpp =
+[
+    [ "feature_set", "optional__features_8hpp.html#a1b13faf6366b38e88fce50aa4be272bd", null ],
+    [ "feature", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25", [
+      [ "ACTIVEMQ_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25aa9f1b89dd7cc831a3b22401abe16f39b", null ],
+      [ "BZIP2_COMPRESSION", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25af5e18e2d3dd642f931cf9e1756438983", null ],
+      [ "C_API", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a70a7d4ffa824d08b668b3398ed98138b", null ],
+      [ "CAPN_PROTO_SERIALIZER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25aac638b744edff1c2c413e70c14c55d1e", null ],
+      [ "DB2_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a1aa04419adc37dfed4db9dd2ab2eac73", null ],
+      [ "CONFIG_FILE_CONFIGURATION", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25afa94f97b07fafba49a2d0a78f53527c7", null ],
+      [ "EMAIL_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a0d00a9d12a89a370330e026b17732b8c", null ],
+      [ "LOG4CPLUS_CONFIGURATION", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a40ab8838a2d3b6aa44671085bdceee0a", null ],
+      [ "MINIZIP_COMPRESSION", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a079dc3fed9c3f10b57d3becf97b48bc9", null ],
+      [ "MYSQL_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25aa88c24c8f7a7276863745620aec8205c", null ],
+      [ "ORACLE_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a97ec5fa1ab74a3eb3b56226dcac4c421", null ],
+      [ "POSTGRESQL_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25ab89961f828d6a1c9381df8a188635b23", null ],
+      [ "PROTOBUF_SERIALIZER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25aecc570a76a8a3cecc4ccf64d2dd95ab9", null ],
+      [ "RABBITMQ_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a5acbc77d45e62d826c21dbb6379736b5", null ],
+      [ "RUBY_EVALUATOR_FILTER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25aeb676512b5fb184662a313c3fe059bbe", null ],
+      [ "SQLITE_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a075f857e97695c4f3ac9d7ca1e63231a", null ],
+      [ "YAML_CONFIGURATION", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25ac1cee28b932c95521a439139c40f50f8", null ],
+      [ "ZEROMQ_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a30b19e6bd895d8ece8e4da95fb5eaacf", null ],
+      [ "ZLIB_COMPRESSION", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25adcc0b2a82325b073f110973e38f1bbd5", null ],
+      [ "LIBARCHIVE_COMPRESSION", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a86f97a3e3f1268833ebb9b99d28bf5c6", null ],
+      [ "LZMA_COMPRESSION", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25ac06f8c1cb47b7228914b35dafeb6799e", null ],
+      [ "LZ4_COMPRESSION", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a0cce46facb73ce4c3d26150d63c40f64", null ],
+      [ "FLATBUFFERS_SERIALIZER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a2e9f6253b9c56729c09daa753ce3ffc6", null ],
+      [ "LOGGLY_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25aebef10331f35568934fadff7fcdcca3e", null ],
+      [ "CLOUDWATCH_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25ad18f33b292e7fe716a1c1936d851fd40", null ],
+      [ "DATABASE_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a8b329c428fdd56846bd74aa0c2901c0c", null ],
+      [ "KAFKA_WRITER", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25af24805eba026c814642ddcd600cbfbab", null ],
+      [ "FEATURE_COUNT", "optional__features_8hpp.html#a25d82f532a0a8cf3d9822675c9d87f25a4f150ec66ddb307b44a0bbcdbbd5d1ad", null ]
+    ] ],
+    [ "get", "optional__features_8hpp.html#ae6803eab494e5f44f91591daaa82ccc4", null ],
+    [ "have", "optional__features_8hpp.html#ad8347be56ff668912d13310d886d1e51", null ]
+];
